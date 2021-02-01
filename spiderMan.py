@@ -9,7 +9,7 @@ from tkinter import ttk
 from kvmIPDefs import *
 from kvmLocDefs import *
 
-program = "INMOTION HOSTING SPIDER KVM MANAGER"
+program = "SPIDER KVM MANAGER"
 # Created by davidc.
 version = "1" 
 release = "9/15/20"
